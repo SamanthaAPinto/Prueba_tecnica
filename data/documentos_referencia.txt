@@ -1,0 +1,35 @@
+[CATALOGO]
+El catálogo comercial incluye, entre otros, las siguientes líneas. El detalle completo y los precios vigentes se encuentran en el sistema comercial (no en este documento).
+Código COD-ALF, Producto Alfa: línea estándar de uso general. Disponibilidad según stock.
+Código COD-BET, Producto Beta: versión reforzada del Alfa, mayor durabilidad. Disponibilidad según stock.
+Código COD-GAM, Servicio Gamma: servicio de implementación y acompañamiento. Disponibilidad bajo agenda.
+El stock se actualiza en tiempo real en el sistema comercial y no está incluido en este documento.
+Los precios, promociones y niveles de stock se gestionan en el sistema comercial y se actualizan mensualmente; no se incluyen en este documento.
+
+[COMO_SOLICITAR]
+Cómo solicitar un producto o servicio, pasos:
+1. Ingresar al portal interno y abrir el formulario F-01 (Solicitud de producto/servicio).
+2. Indicar el código del producto o servicio (ver catálogo), la cantidad y el área solicitante.
+3. Adjuntar la justificación cuando el monto supere el límite del área.
+4. Enviar el formulario. Se puede incluir más de un producto en la misma solicitud, una línea por ítem.
+5. La solicitud pasa a revisión y aprobación. Se puede modificar o cancelar mientras no haya sido aprobada.
+
+[DEVOLUCIONES_GARANTIA]
+Política de devoluciones y garantías:
+Plazo de devolución: 15 días calendario desde la recepción del producto.
+Requisitos para devolver: producto sin uso, con empaque original y el número de solicitud.
+Garantía: 12 meses por defectos de fábrica.
+Casos especiales como producto dañado fuera de plazo, devoluciones no estándar o excepciones requieren evaluación del equipo comercial caso por caso, no tienen respuesta automática estándar.
+
+[DESCUENTOS]
+Política de descuentos por volumen del pedido:
+Pedidos de 50 unidades o más: 5% de descuento.
+Pedidos de 100 unidades o más: 10% de descuento.
+Descuentos mayores a estos o condiciones especiales requieren aprobación de la jefatura comercial, no son automáticos.
+Las promociones temporales se publican en el sistema comercial y no se incluyen en este documento.
+
+[FAQ]
+Preguntas frecuentes:
+¿Puedo cancelar una solicitud? Sí, mientras no haya sido aprobada, desde el portal interno.
+¿Qué incluye la garantía? Cubre defectos de fábrica durante 12 meses desde la recepción.
+¿Puedo modificar una solicitud ya enviada? Sí, antes de la aprobación.
